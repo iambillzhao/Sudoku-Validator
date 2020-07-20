@@ -2,7 +2,7 @@
 
 A multi-threaded C program to test Sudoku solutions.
 
-[Author: Bill Zhao](www.iambillzhao.com)
+[Author: Bill Zhao](https://www.iambillzhao.com/)
 
 ## Program Usage
 
